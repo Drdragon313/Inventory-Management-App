@@ -118,7 +118,7 @@ export default function ProductRegistration() {
 			</div>
 
 			<div>
-				<label className="block text-sm font-medium">Product Image</label>
+				<label className="block text-sm font-medium">Product Image URL</label>
 				<input
 					type="url"
 					name="image"
